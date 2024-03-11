@@ -1,8 +1,9 @@
 # Dynamic_Position_Velocity_Visualizer_For_DLC
 
-Motion Analysis and Visualization
+## Motion Analysis and Visualization
+
 Overview
-This Jupyter script is designed for motion analysis of tracked body parts in DeepLabCut CSV files. It calculates average positions and velocities of two body parts and creates visualizations such as GIFs and streamline plots to represent the motion and flow of movement.
+This Jupyter script is designed for motion analysis of tracked body parts in DeepLabCut CSV files. I created this notebook to help me with behavioral neuroscience experiments. It calculates the average positions and velocities of two body parts (for better accuracy). It creates visualizations such as GIFs and streamline plots to represent the motion and flow of movement. Although there are tools like Simba, DLCAnalyzer, and Bonsai, none are as easy as running a Python script. 
 
 ### Installation
 To run this script, you will need Python installed on your system along with the following libraries:
