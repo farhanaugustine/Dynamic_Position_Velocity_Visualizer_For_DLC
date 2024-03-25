@@ -1,3 +1,34 @@
+cff-version: 1.0.0
+message: If you use this software, please cite it using these metadata.
+title: Dynamic Position Velocity Visualizer for DeepLabCut (DPV-DLC)
+authors:
+  - family-names: Augustine
+    given-names: Farhan
+    orcid: "https://orcid.org/0000-0002-8348-6039"
+  - name: "Dynamic Position Velocity Visualizer for DeepLabCut (DPV-DLC)"
+version: 0.0.1
+date-released: "2024-03-11"
+identifiers:
+  - description: This is the collection of archived snapshots of all versions of DPV-DLC
+    type: doi
+    value: "10.5281/zenodo.10867042"
+license: GPL-3.0
+repository-code: "https://github.com/farhanaugustine/Dynamic_Position_Velocity_Visualizer_For_DLC"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 cff-version: 0.0.1
 message: "If you use this software, please cite it as below."
 authors:
