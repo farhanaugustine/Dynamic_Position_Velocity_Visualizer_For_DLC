@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/770464220.svg)](https://zenodo.org/doi/10.5281/zenodo.10867041)
+
 # Dynamic_Position_Velocity_Visualizer_For_DLC
 
 ## Motion Analysis and Visualization
